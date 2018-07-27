@@ -21,7 +21,9 @@ const puppeteer = require('puppeteer');
     // // page.keyboard.type('World', {delay: 100}); // 更缓慢的输入, 像一个用户
     // // await page.keyboard.type('12311111')
     // await page.keyboard.sendCharacter('sw')
-    // // await page.keyboard.sendCharacter('嗨');
+		// // await page.keyboard.sendCharacter('嗨');
+		
+		
     // await page.click('#su')
     // //再次跳转页面发生
     // page.on('load',()=>{
